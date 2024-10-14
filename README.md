@@ -1,7 +1,7 @@
 # Agentic-AI
 This Repository will focus on building AI Agents with LLM using SWARM from OpenAI.
 
-(logoswarm.png)
+![Swarm by OpenAI](logoswarm.png)
 
 # AI-Powered Calculator with Swarm
 
