@@ -30,6 +30,5 @@ This project also includes a **Jupyter Notebook** where I experimented with the 
 - Optimize the agents to reduce redundancy and improve efficiency.
 - Add more advanced operations to the calculator.
 
-## Project Structure
 
 
